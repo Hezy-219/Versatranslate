@@ -18,3 +18,8 @@ Versatranslate is built upon these incredible open-source libraries:
 | 1.0.1   |:heavy_multiplication_x:|
 | 1.0.2   | :heavy_check_mark: |
 This project is licensed under the **Apache License 2.0**.
+
+What's New in v1.0.2:
+Implemented Interactive CLI Menu with random User ID generation.
+Added Robust Error Handling (Try-Except blocks) for user inputs.
+Optimized NLTK Tokenization for French punctuation (l'école).

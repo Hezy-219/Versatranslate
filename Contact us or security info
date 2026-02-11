@@ -1,0 +1,28 @@
+# Security Policy
+
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0.2   | :heavy_check_mark: |
+
+
+## Reporting a Vulnerability,
+To report a vulnerability, contact us at vulnerability.report.maximillian@gmail.com, who knows, you will get a shoutout in our 
+contributors list(something coming up).
+Most probable erros are value errors (which we've handled), unnecessary lines of code(we love doing this, kind of our specialty), missing necessary except
+blocks and so on.
+Vulenerability category levels:
+value errors : Low-Level
+Bugs like code not responding: Medium level(report as soon as possible).
+Prompts to download something : High level(report via email directly and immediately, our codes use mostly inbuilt modules or libraries Note: a liabrary getting downloaded is different from a new software being downloaded
+Also, send us an email if you want the code without loading aesthetics and you could send designs you think of and we may consider the design/feature and customize your codes we
+does this incase we have beginners or newbies that want to use or app otherwise Our license allows you to do those customizaations you want.
+Be sure to make any and every email clear and detailed. We make programs for everyone, well we simplify it enough for beginners to understand.
+We will try our best to respond within 48 hours because we got nothing else to do but listen. Thank you for using our code.
+
+## Next update
+Our next update is to review our license structures and integrate the Apache 2.0 licence

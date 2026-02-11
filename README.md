@@ -12,4 +12,9 @@ Versatranslate is built upon these incredible open-source libraries:
 *   **[TextBlob](https://textblob.readthedocs.io)**: Powers the linguistic categorisation and part-of-speech tagging.
 *   **[NLTK](https://www.nltk.org)**: Provides the tokenization and language resources for the "Memory Recall" system.
 
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0.0   |:heavy_multiplication_x:|
+| 1.0.1   |:heavy_multiplication_x:|
+| 1.0.2   | :heavy_check_mark: |
 This project is licensed under the **Apache License 2.0**.
